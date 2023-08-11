@@ -264,3 +264,7 @@ footer{
     margin-top: 115px;
   }
 
+#accordionExample .titulo{ 
+    margin-top: 100px;
+    text-align: center;
+}
