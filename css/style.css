@@ -265,6 +265,19 @@ footer{
   }
 
 #accordionExample .titulo{ 
-    margin-top: 100px;
+    margin-top: 90px;
+    text-align: center;
+}
+
+#accordionExample .subtitulo{ 
+    margin-top: 50px;
+    text-align: center;
+}
+#accordionExample .subtitulo2{ 
+    margin-top: 40px;
+    text-align: center;
+}
+#accordionExample .subtitulo3{ 
+    margin-top: 40px;
     text-align: center;
 }
